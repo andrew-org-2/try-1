@@ -1,1 +1,1 @@
-This is a text for example
+These are the release notes from GitHub
